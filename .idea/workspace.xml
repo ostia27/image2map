@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c65335a-cbeb-455c-ab66-78b789edf1c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/image2map.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/barrel_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/bones_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/cactus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/crate_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/crate_powerup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/crate_tnt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/grass_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/poison_gas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/slow_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/spawn_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/spawn_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/speed_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/spikes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/wall_rock_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/bolt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/brick_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/clear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/grass_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/healing_tile.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_ne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_nw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_se.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_sw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/launch_w.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/safe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/teleporter_blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/teleporter_green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/teleporter_red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/not_assets/teleporter_yellow.png" afterDir="false" />
+    <list default="true" id="0c65335a-cbeb-455c-ab66-78b789edf1c9" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RookCube&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RookCube/image2map&quot;,
+    &quot;accountId&quot;: &quot;0c32f297-0050-4ed8-a063-56c833452bef&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -128,6 +100,19 @@
       <option name="presentableId" value="Default" />
       <updated>1720805727976</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1720869451146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720869451146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
