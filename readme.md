@@ -30,6 +30,6 @@ This project converts an input image into a brawl map. The resulting image is sa
 
 To run the script, use the following command:
     
-    ```bash
-    python main.py <input_image> -o <output_image> -s <size>
-    ```
+ ```bash
+ python main.py <input_image> -o <output_image> -s <size>
+ ```
