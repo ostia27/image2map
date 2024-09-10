@@ -16,8 +16,8 @@ This project converts an input image into a brawl map. The resulting image is sa
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/ostia27/image2map
+    cd image2map
     ```
 
 2. Install the required Python packages:
